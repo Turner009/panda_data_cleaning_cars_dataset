@@ -1,4 +1,4 @@
-index,company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,USD($),Euros(€)
+index,company,body-style,wheel-base,length,engine-type,num-of-cylinders,horsepower,average-mileage,USD($),Price in Euros(€)
 0,Alfa-Romero,convertible,88.6,168.8,dohc,four,111,21,13495.0,14169.75
 1,Alfa-Romero,convertible,88.6,168.8,dohc,four,111,21,16500.0,17325.0
 3,Audi,sedan,99.8,176.6,ohc,four,102,24,13950.0,14647.5
